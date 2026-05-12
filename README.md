@@ -8,7 +8,7 @@ A comprehensive machine learning pipeline for COVID-19 status classification usi
 - **Multi-Model Stability Selection**: 5 algorithms (ElasticNet, Random Forest, SVM, Gradient Boosting, k-NN)
 - **Robust Feature Selection**: 100 bootstrap resamples per model
 - **Sex-Stratified Analysis**: Separate evaluation for Male/Female samples
-- **Comprehensive Visualization**: 14 publication-ready figures
+- **Comprehensive Visualization**: 14 figures
 
 ## Quick Start
 
